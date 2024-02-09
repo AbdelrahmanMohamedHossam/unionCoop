@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-09T16:52:22 EET" name="Default suite" finished-at="2024-02-09T16:52:44 EET" duration-ms="21825">
+    <groups>
+    </groups>
+    <test started-at="2024-02-09T16:52:22 EET" name="Default test" finished-at="2024-02-09T16:52:44 EET" duration-ms="21825">
+      <class name="Tests.autoComplete">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Tests.autoComplete@23c30a20]" started-at="2024-02-09T16:52:22 EET" name="setup" finished-at="2024-02-09T16:52:33 EET" duration-ms="10983" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="confirmRelevantData()[pri:1, instance:Tests.autoComplete@23c30a20]" started-at="2024-02-09T16:52:33 EET" name="confirmRelevantData" finished-at="2024-02-09T16:52:35 EET" duration-ms="2224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- confirmRelevantData -->
+        <test-method signature="moveToSuggestions()[pri:2, instance:Tests.autoComplete@23c30a20]" started-at="2024-02-09T16:52:35 EET" name="moveToSuggestions" finished-at="2024-02-09T16:52:44 EET" duration-ms="8532" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- moveToSuggestions -->
+      </class> <!-- Tests.autoComplete -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
